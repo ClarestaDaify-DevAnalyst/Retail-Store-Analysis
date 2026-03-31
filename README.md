@@ -27,13 +27,10 @@ Proyek ini merupakan analisis bisnis lengkap dari dataset transaksi perusahaan r
 retail-store-analysis/
 │
 ├── data/
-│   └── Retail_Store.xlsx          # Dataset utama
+│   └── Retail_Store - Retail_Store.csv          # Dataset utama
 │
 ├── analysis/
-│   └── Retail_Store_Dashboard.xlsx  # Excel dashboard & EDA
-│
-├── dashboard/
-│   └── dashboard_preview.png      # Screenshot dashboard
+│   └── Retail_Store_Dashboard_Analisis_Fix.xlsx  # Excel dashboard & EDA
 │
 ├── images/
 │   ├── sales_by_category.png
@@ -42,7 +39,7 @@ retail-store-analysis/
 │   └── monthly_trend.png
 │
 ├── report/
-│   └── Laporan_Analisis.pptx      # Presentasi laporan (6 slide)
+│   └── Retail_Store_Laporan_Analisis.pptx      # Presentasi laporan (6 slide)
 │
 └── README.md
 ```
